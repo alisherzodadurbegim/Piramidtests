@@ -1,0 +1,464 @@
+{
+	"id": "test-2",
+	"title": "Reading Test 2",
+	"passages": [
+		{
+			"title": "Test 2 - Reading Passage 1",
+			"content": "How to Spot a Liar?However much we may abhor it, deception comes naturally to all living things. Birds do it by feigning injury to lead hungry predators away from nesting young. Spider crabs do it by disguise: adorning themselves with strips of kelp and other debris, they pretend to be something they are not – and so escape their enemies. Nature amply rewards successful deceivers by allowing them to survive long enough to mate and reproduce. So it may come as no surprise to learn that human beings – who, according to psychologist Gerald Jellison of the University of South California, are lied to about 200 times a day, roughly one untruth every five minutes – often deceive for exactly the same reasons: to save their own skins or to get something they can't get by other means.\n\n But knowing how to catch deceit can be just as important a survival skill as knowing how to tell a lie and get away with it. A person able to spot falsehood quickly is unlikely to be swindled by an unscrupulous business associate or hoodwinked by a devious spouse. Luckily, nature provides more than enough clues to trap dissemblers in their own tangled webs – if you know where to look. By closely observing facial expressions, body language and tone of voice, practically anyone can recognise the telltale signs of lying. Researchers are even programming computers – like those used on Lie Detector – to get at the truth by analysing the same physical cues available to the naked eye and ear. “With the proper training, many people can learn to reliably detect lies,” says Paul Ekman, professor of psychology at the University of California, San Francisco, who has spent the past 15 years studying the secret art of deception. \n\n In order to know what kind of lies work best, successful liars need to accurately assess other people's emotional states. Ekman’s research shows that thissame emotional intelligence is essential for good lie detectors, too. The emotional state to watch out for is stress, the conflict most liars feel between the truth and what they actually say and do.\n\n Even high-tech lie detectors don’t detect lies as such; they merely detect the physical cues of emotions, which may or may not correspond to what the person being tested is saying. Polygraphs, for instance, measure respiration, heart rate and skin conductivity, which tend to increase when people are nervous – as they usually are when lying. Nervous people typically perspire, and the salts contained in perspiration conduct electricity. That’s why a sudden leap in skin conductivity indicates nervousness – about getting caught, perhaps – which might, in turn, suggest that someone is being economical with the truth. On the other hand, it might also mean that the lights in the television studio are too hot – which is one reason polygraph tests are inadmissible in court. “Good lie detectors don’t rely on a single sign,” Ekman says, “but interpret clusters of verbal and non-verbal clues that suggest someone might be lying.”\n\n Those clues are written all over the face. Because the musculature of the face is directly connected to the areas of the brain that process emotion, the countenance can be a window to the soul. Neurological studies even suggest that genuine emotions travel different pathways through the brain than insincere ones. If a patient paralyzed by stroke on one side of the face, for example, is asked to smile deliberately, only the mobile side of the mouth is raised. But tell that same person a funny joke, and the patient breaks into a full and spontaneous smile. Very few people – most notably, actors and politicians – are able to consciously control all of their facial expressions. Lies can often be caught when the liar’s true feelings briefly leak through the mask of deception. “We don’t think before we feel,” Ekman says. “Expressions tend to show up on the face before we’re even conscious of experiencing an emotion.”\n\n One of the most difficult facial expressions to fake – or conceal, if it is genuinely felt – is sadness. When someone is truly sad, the forehead wrinkles with grief and the inner corners of the eyebrows are pulled up. Fewer than 15% of people surveyed were able to produce this eyebrow movement voluntarily. By contrast, the lowering of the eyebrows associated with an angry scowl can be replicated at will by almost everybody. “If someone claims they are sad and the inner corners of their eyebrows don’t go up,” Ekman says, “the sadness is probably false.” The smile, on the other hand, is one of the easiest facial expressions to counterfeit. It takes just two muscles – the zygomaticus major muscles that extend from the cheekbones to the corners of the lips – to produce a grin. But there’s a catch. A genuine smile affects not only the corners of the lips but also the orbicularis oculi, the muscle around the eye that produces the distinctive “crow’s feet” associated with people who laugh a lot. A counterfeit grin can be unmasked if the lip corners go up, the eyes crinkle but the inner corners of the eyebrows are not lowered, a movement controlled by the orbicularis oculi that is difficult to fake. The absence of lowered eyebrows is one reason why false smiles look so strained and stiff.",
+			"questions": [
+				{
+					"id": 1,
+					"type": "true-false-not-given",
+					"question": "All living animals can lie.",
+					"options": ["YES", "NO", "NOT GIVEN"],
+					"answer": "NOT GIVEN"
+				},
+				{
+					"id": 2,
+					"type": "true-false-not-given",
+					"question": "Some people tell lies for self-preservation.",
+					"options": ["YES", "NO", "NOT GIVEN"],
+					"answer": "YES"
+				},
+				{
+					"id": 3,
+					"type": "true-false-not-given",
+					"question": "Scientists have used computers to analyse which part of brain is responsible for telling lies.",
+					"options": ["YES", "NO", "NOT GIVEN"],
+					"answer": "NO"
+				},
+				{
+					"id": 4,
+					"type": "true-false-not-given",
+					"question": "Lying as a survival skill is more important than detecting a lie.",
+					"options": ["YES", "NO", "NOT GIVEN"],
+					"answer": "NO"
+				},
+				{
+					"id": 5,
+					"type": "true-false-not-given",
+					"question": "To be a good liar, one has to understand other people's emotions.",
+					"options": ["YES", "NO", "NOT GIVEN"],
+					"answer": "YES"
+				},
+				{
+					"id": 6,
+					"type": "multiple",
+					"question": "How does the lie detector work?",
+					"options": ["A", "B", "C", "D"],
+					"optionsText": [
+						"It detects whether one's emotional state is stable.",
+						"It detects one's brain activity level.",
+						"It detects body behaviour during one's verbal response.",
+						"It analyses one's verbal response word by word."
+					],
+					"answer": "C"
+				},
+				{
+					"id": 7,
+					"type": "multiple",
+					"question": "Lie detectors can't be used as evidence in a court of law because",
+					"options": ["A", "B", "C", "D"],
+					"optionsText": [
+						"lights often cause lie detectors to malfunction.",
+						"they are based on too many verbal and non-verbal clues.",
+						"polygraph tests are often inaccurate.",
+						"there may be many causes of a certain body behaviour."
+					],
+					"answer": "D"
+				},
+				{
+					"id": 8,
+					"type": "multiple",
+					"question": "Why does the author mention the paralysed patients?",
+					"options": ["A", "B", "C", "D"],
+					"optionsText": [
+						"To demonstrate how a paralysed patient smiles.",
+						"To show the relation between true emotions and body behaviour.",
+						"To examine how they were paralysed.",
+						"To show the importance of happiness from recovery."
+					],
+					"answer": "B"
+				},
+				{
+					"id": 9,
+					"type": "multiple",
+					"question": "The author uses politicians to exemplify that they can",
+					"options": ["A", "B", "C", "D"],
+					"optionsText": [
+						"have emotions.",
+						"imitate actors.",
+						"detect other people's lies.",
+						"mask their true feelings."
+					],
+					"answer": "D"
+				},
+				{
+					"id": 10,
+					"type": "matching-heading",
+					"question": "Inner corners of eyebrows raised",
+					"options": ["A", "B", "C"],
+					"optionsText": ["Sadness", "Anger", "Happiness"],
+					"answer": "A"
+				},
+				{
+					"id": 11,
+					"type": "matching-heading",
+					"question": "The whole eyebrows lowered",
+					"options": ["A", "B", "C"],
+					"optionsText": ["Sadness", "Anger", "Happiness"],
+					"answer": "B"
+				},
+				{
+					"id": 12,
+					"type": "matching-heading",
+					"question": "Lines formed around eyes",
+					"options": ["A", "B", "C"],
+					"optionsText": ["Sadness", "Anger", "Happiness"],
+					"answer": "C"
+				},
+				{
+					"id": 13,
+					"type": "matching-heading",
+					"question": "Lines formed above eyebrows",
+					"options": ["A", "B", "C"],
+					"optionsText": ["Sadness", "Anger", "Happiness"],
+					"answer": "A"
+				}
+			]
+		},
+
+		{
+			"title": "Passage 2",
+			"content": "Being Left-handed in a Right-handed World\n\nThe world is designed for right-handed people. Why does a majority of the population prefer the left?\n\nSection A\nThe probability that two right-handed people would have a left-handed child is only about 9.5 per cent. The chance rises to 19.5 per cent if one parent is lefty and 26 per cent if both parents are left-handed. The preference, however, could also stem from an infant’s imitation of his parents. To represent influence, starting in the 1970s, British biologist Marian Annett of the University of Leicester hypothesized that no single gene determines handedness. Rather, during fetal development, a certain molecular factor helps to strengthen the brain’s left hemisphere, which increases the probability that the right hand will be dominant, because the left side of the brain controls the right side of the body, and vice versa. Among the minority of people who lack this factor, handedness develops entirely by chance. Research conducted on twins complicates the theory, however. One in five sets of identical twins involves one right-handed and one left-handed person, despite the fact that their genetic material is the same. Genes, therefore, are not solely responsible for handedness.\n\nSection B\nThe genetic theory is also undermined by results from Peter Hepper and his team at Queen’s University in Belfast, Ireland. In 2004, the psychologists used ultrasound to show that by the 15th week of pregnancy, fetuses already have a preference as to which thumb they suck. In most cases, the preference continued after birth. At 15 weeks, though, the brain does not yet have control over the body’s limbs. Hepper speculates that fetuses tend to prefer whichever side is more developed on that day and that their movements, in turn, influence the brain’s development. Whether this early preference is temporary or holds up throughout development and training is unknown.\n\nGenetic predetermination is also contradicted by the widespread observation that children do not claim either their right or left hand until they are two or three years old.\n\nSection C\nBut even if these correlations were true, they did not explain what actually causes left-handedness. Furthermore, specialisation on either side of the body is common among animals. Cats will favour one paw over another when fishing toys out from under the couch. Horses stomp more frequently with one hoof than the other. Certain critters motion predominantly with the left or right.\n\nIn evolutionary terms, focusing power and dexterity on one limb is more efficient than having to train two, for we never see left limbs equally. Yet for most animals, the overwhelming dominance of the right hand is associated only with humans. That fact draws attention towards the brain’s two hemispheres and perhaps towards language.\n\nSection D\nInterest in hemispherism dates back to at least 1836. That year, at a medical conference, French physician Marc Dax reported on an unusual commonality among his patients. During his many years as a country doctor, Dax had encountered more than 40 men and women for whom speech was difficult, the result of some kind of brain damage. What was unique was that every individual suffered damage to the left side of the brain. At the conference, Dax elaborated on his theory, stating that each half of the brain was responsible for certain functions and that the left hemisphere controlled speech. Other experts showed little interest in the Frenchman’s ideas.\n\nOver time, however, scientists found more and more evidence of people experiencing speech difficulties following injury to the left brain. Patients with damage to the right hemisphere most often displayed disruptions in perception or concentration. Major advancements in understanding the brain’s asymmetry were made in the 1960s as a result of the so-called split-brain surgery, developed to help patients with epilepsy. During this operation, doctors severed the corpus callosum – the nerve bundle that connects the two hemispheres. The surgical cut also stopped almost all normal communication between the two hemispheres, which offered researchers the opportunity to investigate each side’s activity.\n\nSection E\nIn 1949, neurosurgeon Juhn Wada devised the first test to provide access to the brain’s functional organisation of language. By injecting an anaesthetic into the right or left carotid artery, Wada temporarily paralysed one side of a healthy brain, enabling him to more closely study the other side’s capabilities. Based on this approach, Brenda Milner and the late Theodore Rasmussen of the Montreal Neurological Institute published a major study in 1975 that confirmed the theory that country doctor Dax had formulated nearly 140 years earlier: in 96 per cent of right-handed people, language is processed much more intensely in the left hemisphere. The correlation is not as clear in lefties, however. For two thirds of them, the left hemisphere is still the most active language processor. But for the remaining third, either the right side is dominant or both sides work equally, controlling different language functions.\n\nThat last statistic has slowed acceptance of the notion that the predominance of right-handedness is driven by left-hemisphere dominance in language processing. It is not at all clear why language control should somehow have dragged the control of body movement with it. Some experts think one reason the left hemisphere reigns over language is because the organs of speech processing—the larynx and tongue—are positioned on the body’s symmetry axis. Because these structures were credited, it may have been unclear, in evolutionary terms, which side of the brain should control them, and it seems unlikely that shared operation would result in smooth motor activity.\n\nLanguage and handedness could have developed preferentially for very different reasons as well. For example, some researchers, including evolutionary psychologist Michael C. Corballis of the University of Auckland in New Zealand, think that the origin of human speech lies in gestures. Gestures pre-dated words and helped language emerge. If the left hemisphere began to dominate speech, it would have dominated gestures, too, and because the left brain controls the right side of the body, the right hand develops more strongly.\n\nSection F\nPerhaps we will know more soon. In the meantime, we can revel in what, if any, differences handedness brings to our human talents. Popular wisdom says right-handed, left-brained people excel at logical, analytical thinking. Left-handed, right-brained individuals are thought to possess more creative skills and may be better at combing the functional features emergent in both sides of the brain. Yet some neuroscientists see such claims as pure speculation.\n\nFewer scientists are ready to claim that left-handedness means greater creative potential. Yet lefties are prevalent among artists, composers and the generally acknowledged great political thinkers. Possibly if these individuals are among the lefties whose language abilities are evenly distributed between hemispheres, the intense interplay required could lead to unusual mental capabilities.\n\nSection F\nPerhaps we will know more soon. In the meantime, we can revel in what, if any, differences handedness brings to our human talents. Popular wisdom says right-handed, left-brained people excel at logical, analytical thinking. Left-handed, right-brained individuals are thought to possess more creative skills and may be better at combining the functional features emergent in both sides of the brain. Yet some neuroscientists see such claims as pure speculation.\n\nFewer scientists are ready to claim that left-handedness means greater creative potential. Yet lefties are prevalent among artists, composers and the generally acknowledged great political thinkers. Possibly if these individuals are among the lefties whose language abilities are evenly distributed between hemispheres, the intense interplay required could lead to unusual mental capabilities.\n\nSection G\nOr perhaps some lefties become highly creative simply because they must be more clever to get by in our right-handed world. This battle, which begins during the very early stages of childhood, may lay the groundwork for exceptional achievements.",
+			"questions": [
+				{
+					"id": 14,
+					"type": "multiple",
+					"question": "Reading Passage 2 has seven sections A-G.\nWhich section contains the following information?\n\nPreference for using one side of the body in animal species",
+					"options": ["A", "B", "C", "D", "E", "F", "G"],
+					"answer": "C"
+				},
+				{
+					"id": 15,
+					"type": "multiple",
+					"question": "Reading Passage 2 has seven sections A-G.\nWhich section contains the following information?\n\nHow likely one handedness is born",
+					"options": ["A", "B", "C", "D", "E", "F", "G"],
+					"answer": "A"
+				},
+				{
+					"id": 16,
+					"type": "multiple",
+					"question": "Reading Passage 2 has seven sections A-G.\nWhich section contains the following information?\n\nThe age when the preference for using one hand is settled",
+					"options": ["A", "B", "C", "D", "E", "F", "G"],
+					"answer": "B"
+				},
+				{
+					"id": 17,
+					"type": "multiple",
+					"question": "Reading Passage 2 has seven sections A-G.\nWhich section contains the following information?\n\nOccupations usually found in left-handed population",
+					"options": ["A", "B", "C", "D", "E", "F", "G"],
+					"answer": "F"
+				},
+				{
+					"id": 18,
+					"type": "multiple",
+					"question": "Reading Passage 2 has seven sections A-G.\nWhich section contains the following information?\n\nA reference to an early discovery of each hemisphere’s function",
+					"options": ["A", "B", "C", "D", "E", "F", "G"],
+					"answer": "D"
+				},
+				{
+					"id": 19,
+					"type": "multiple",
+					"question": "Match each researcher with the correct finding.\n\nMarian Annett",
+					"options": ["A", "B", "C", "D", "E", "F", "G"],
+					"optionsText": [
+						"Early language evolution is correlated to body movement and thus affecting the preference for use of one hand.",
+						"No single biological component determines the handedness of a child.",
+						"Each hemisphere of the brain is in charge of different body functions.",
+						"Language process is mainly centred in the left hemisphere of the brain.",
+						"Speech difficulties are often caused by brain damage.",
+						"The rate of development of one side of the body has influence on hemisphere preference in foetus.",
+						"Brain function already matures by the end of the foetal stage."
+					],
+					"answer": "B"
+				},
+				{
+					"id": 20,
+					"type": "multiple",
+					"question": "Match each researcher with the correct finding.\n\nPeter Hepper",
+					"options": ["A", "B", "C", "D", "E", "F", "G"],
+					"optionsText": [
+						"Early language evolution is correlated to body movement and thus affecting the preference for use of one hand.",
+						"No single biological component determines the handedness of a child.",
+						"Each hemisphere of the brain is in charge of different body functions.",
+						"Language process is mainly centred in the left hemisphere of the brain.",
+						"Speech difficulties are often caused by brain damage.",
+						"The rate of development of one side of the body has influence on hemisphere preference in foetus.",
+						"Brain function already matures by the end of the foetal stage."
+					],
+					"answer": "F"
+				},
+				{
+					"id": 21,
+					"type": "multiple",
+					"question": "Match each researcher with the correct finding.\n\nBrenda Milner & Theodore Rasmussen",
+					"options": ["A", "B", "C", "D", "E", "F", "G"],
+					"optionsText": [
+						"Early language evolution is correlated to body movement and thus affecting the preference for use of one hand.",
+						"No single biological component determines the handedness of a child.",
+						"Each hemisphere of the brain is in charge of different body functions.",
+						"Language process is mainly centred in the left hemisphere of the brain.",
+						"Speech difficulties are often caused by brain damage.",
+						"The rate of development of one side of the body has influence on hemisphere preference in foetus.",
+						"Brain function already matures by the end of the foetal stage."
+					],
+					"answer": "D"
+				},
+				{
+					"id": 22,
+					"type": "multiple",
+					"question": "Match each researcher with the correct finding.\n\nMichael Corballis",
+					"options": ["A", "B", "C", "D", "E", "F", "G"],
+					"optionsText": [
+						"Early language evolution is correlated to body movement and thus affecting the preference for use of one hand.",
+						"No single biological component determines the handedness of a child.",
+						"Each hemisphere of the brain is in charge of different body functions.",
+						"Language process is mainly centred in the left hemisphere of the brain.",
+						"Speech difficulties are often caused by brain damage.",
+						"The rate of development of one side of the body has influence on hemisphere preference in foetus.",
+						"Brain function already matures by the end of the foetal stage."
+					],
+					"answer": "A"
+				},
+				{
+					"id": 23,
+					"type": "true-false-not-given",
+					"question": "The study of twins shows that genetic determination is not the only factor for left-handedness.",
+					"options": ["YES", "NO", "NOT GIVEN"],
+					"answer": "YES"
+				},
+				{
+					"id": 24,
+					"type": "true-false-not-given",
+					"question": "Marc Dax's report was widely accepted in his time.",
+					"options": ["YES", "NO", "NOT GIVEN"],
+					"answer": "NO"
+				},
+				{
+					"id": 25,
+					"type": "true-false-not-given",
+					"question": "John Wada based his findings on his research of people with language problems.",
+					"options": ["YES", "NO", "NOT GIVEN"],
+					"answer": "NOT GIVEN"
+				},
+				{
+					"id": 26,
+					"type": "true-false-not-given",
+					"question": "There tend to be more men with left-handedness than women.",
+					"options": ["YES", "NO", "NOT GIVEN"],
+					"answer": "NOT GIVEN"
+				}
+			]
+		},
+		{
+			"title": "What Is a Dinosaur?",
+			"content": "Although the name dinosaur is derived from the Greek for \"terrible lizard\", dinosaurs are not, in fact, lizards at all. Like lizards, dinosaurs are included in the class Reptilia or reptiles, one of the five main classes of Vertebrata, animals with backbones. However, at the next level of classification, within reptiles, significant differences in the skeletal anatomy of lizards and dinosaurs have led scientists to place these groups of animals into two different superorders: Lepidosauria or lepidosaurs, and Archosauria or archosaurs. B Classified as lepidosaurs are lizards and snakes and their prehistoric ancestors. Included among the archosaurs or \"ruling reptiles\" are prehistoric and modern crocodiles, and the now extinct dinosaurs, pterosaurs and birds. Paleontologists believe that both dinosaurs and crocodiles evolved, in the later years of the Triassic Period (248-206 million years ago), from creatures called pseudosaurs thecodonts. Lizards, snakes and different types of thecodonts are believed to have evolved earlier in the Triassic Period from reptiles known as eosuchians. C The most important skeletal differences between dinosaurs and other archosaurs are in the bones of the skull, pelvis and limbs. Dinosaur skulls are found in a great range of shapes and sizes, reflecting the different eating habits and lifestyles of a large and varied group of animals that dominated life on Earth for an extraordinary 165 million years. However, unlike the skulls of any other known animals, the skulls of dinosaurs have two long bones known as vomers. These bones extended on either side of the skull from the front of the snout to the level of the eye in the skull known as the antorbital fenestra, situated in front of the dinosaur's orbits, or eye sockets. D All dinosaurs, whether large or small, quadrupedal or bipedal, fleet-footed or slow-moving, shared a common body plan. Identification of this plan makes it possible to differentiate dinosaurs from any other types of animals, even other archosaurs. Most significantly, in dinosaurs, the pelvic femur and every other bone that had to be used vertically beneath the body, rather than sprawling out to the sides like the limbs of a lizard. The femur of a dinosaur had a sharply in-turned neck and a ball-shaped head, which slotted into a hip joint acetabulum or hip socket. A supra-acetabular crest helped prevent dislocation of the femur. The position of the knee joint, aligned below the acetabulum, made it possible for the whole hind limb to swing backwards and forwards. This unique combination of features gave dinosaurs the aura of an \"fully improved gait\". Evolution of this hip structure instead of walking also developed in mammals, but was not considered only in the dinosaurs. E For the purpose of further classification, dinosaurs are divided into two orders: Saurischia or saurischian dinosaurs, and Ornithischia or ornithischian dinosaurs. This division is made on the basis of their pelvic anatomy. All dinosaurs had a pelvic girdle with specific shapes of the bones: bones of the pubis, ilium and ischium. However, the orientation of these bones follows one of two patterns. In saurischian dinosaurs, the pubis points forwards, towards the head of the animal, which is also true of birds. In contrast, in ornithischians or bird-hipped dinosaurs, the pubis points backwards towards the rear of the animal, which is also true of birds. F Of the two orders of dinosaurs, the Saurischia is the larger and the first to evolve. It is divided into two suborders: Theropoda or theropods, and Sauropodomorpha or sauropodomorphs. The theropods or \"beast feet\" were bipedal, predatory carnivores. They ranged in size from the mighty Tyrannosaurus rex, 12m long, 5.6m tall and weighing an estimated 6.4 tonnes, to the smallest known dinosaur, Compsognathus, merely 1.4m long and estimated 3kg in weight when fully grown. The sauropodomorphs or \"lizard foot forms\" included both bipedal and quadrupedal dinosaurs. Some sauropodomorphs were carnivorous or omnivorous, but later species were typically herbivorous. They included some of the largest and best known of all dinosaurs, such as Diplodocus, a huge quadruped with an elephant-like body, a long thin tail and neck that gave it a total length of 27m and a tiny head. G Ornithischian dinosaurs were bipedal or quadrupedal herbivores. They are normally divided into three suborders: Ornithopoda, Thyreophora and Marginocephalia. The ornithopods or \"bird feet\", both large and small, could walk or run on their long hind legs, balancing their body by holding their tail up straight behind them. An example is Iguanodon, up to 9m long, 5m tall and weighing 4.5 tonnes. The thyreophorans or \"shield bearers\", also known as armored dinosaurs, were quadrupeds with rows of protective bony spikes, studs, or plates along their backs and tails. They included Stegosaurus, 9m long and weighing 2 tonnes. H The marginocephalians or \"margin-headed\" were bipedal or quadrupedal ornithischians with a deep bony frill or narrow shelf at the back of the skull. An example is Triceratops, a rhinoceros-like dinosaur, 9m long, weighing 5.4 tonnes and bearing a magnificent neck frill and three large horns.",
+			"questions": [
+				{
+					"id": 27,
+					"type": "matching-heading",
+					"question": "Passage 3 has eight paragraphs A-H. Paragraph A",
+					"options": [
+						"i. 165 million years",
+						"ii. The body plan of archosaurs",
+						"iii. Dinosaurs – terrible lizards",
+						"iv. Classification according to pelvic anatomy",
+						"v. The suborders of Saurischia",
+						"vi. Lizards and dinosaurs – two distinct superorders",
+						"vii. Unique body plan helps identify dinosaurs from other animals",
+						"viii. Herbivore dinosaurs",
+						"ix. Lepidosaurs",
+						"x. Frills and shelves",
+						"xi. The origins of dinosaurs and lizards",
+						"xii. Bird-hipped dinosaurs",
+						"xiii. Skull bones distinguish dinosaurs from other archosaurs"
+					],
+					"answer": "vi"
+				},
+				{
+					"id": 28,
+					"type": "matching-heading",
+					"question": "28 Paragraph B",
+					"options": [
+						"i. 165 million years",
+						"ii. The body plan of archosaurs",
+						"iii. Dinosaurs – terrible lizards",
+						"iv. Classification according to pelvic anatomy",
+						"v. The suborders of Saurischia",
+						"vi. Lizards and dinosaurs – two distinct superorders",
+						"vii. Unique body plan helps identify dinosaurs from other animals",
+						"viii. Herbivore dinosaurs",
+						"ix. Lepidosaurs",
+						"x. Frills and shelves",
+						"xi. The origins of dinosaurs and lizards",
+						"xii. Bird-hipped dinosaurs",
+						"xiii. Skull bones distinguish dinosaurs from other archosaurs"
+					],
+					"answer": "xi"
+				},
+				{
+					"id": 29,
+					"type": "matching-heading",
+					"question": "29 Paragraph C",
+					"options": [
+						"i. 165 million years",
+						"ii. The body plan of archosaurs",
+						"iii. Dinosaurs – terrible lizards",
+						"iv. Classification according to pelvic anatomy",
+						"v. The suborders of Saurischia",
+						"vi. Lizards and dinosaurs – two distinct superorders",
+						"vii. Unique body plan helps identify dinosaurs from other animals",
+						"viii. Herbivore dinosaurs",
+						"ix. Lepidosaurs",
+						"x. Frills and shelves",
+						"xi. The origins of dinosaurs and lizards",
+						"xii. Bird-hipped dinosaurs",
+						"xiii. Skull bones distinguish dinosaurs from other archosaurs"
+					],
+					"answer": "xiii"
+				},
+				{
+					"id": 30,
+					"type": "matching-heading",
+					"question": "30 Paragraph D",
+					"options": [
+						"i. 165 million years",
+						"ii. The body plan of archosaurs",
+						"iii. Dinosaurs – terrible lizards",
+						"iv. Classification according to pelvic anatomy",
+						"v. The suborders of Saurischia",
+						"vi. Lizards and dinosaurs – two distinct superorders",
+						"vii. Unique body plan helps identify dinosaurs from other animals",
+						"viii. Herbivore dinosaurs",
+						"ix. Lepidosaurs",
+						"x. Frills and shelves",
+						"xi. The origins of dinosaurs and lizards",
+						"xii. Bird-hipped dinosaurs",
+						"xiii. Skull bones distinguish dinosaurs from other archosaurs"
+					],
+					"answer": "vii"
+				},
+				{
+					"id": 31,
+					"type": "matching-heading",
+					"question": "31 Paragraph E",
+					"options": [
+						"i. 165 million years",
+						"ii. The body plan of archosaurs",
+						"iii. Dinosaurs – terrible lizards",
+						"iv. Classification according to pelvic anatomy",
+						"v. The suborders of Saurischia",
+						"vi. Lizards and dinosaurs – two distinct superorders",
+						"vii. Unique body plan helps identify dinosaurs from other animals",
+						"viii. Herbivore dinosaurs",
+						"ix. Lepidosaurs",
+						"x. Frills and shelves",
+						"xi. The origins of dinosaurs and lizards",
+						"xii. Bird-hipped dinosaurs",
+						"xiii. Skull bones distinguish dinosaurs from other archosaurs"
+					],
+					"answer": "iv"
+				},
+				{
+					"id": 32,
+					"type": "matching-heading",
+					"question": "32 Paragraph F",
+					"options": [
+						"i. 165 million years",
+						"ii. The body plan of archosaurs",
+						"iii. Dinosaurs – terrible lizards",
+						"iv. Classification according to pelvic anatomy",
+						"v. The suborders of Saurischia",
+						"vi. Lizards and dinosaurs – two distinct superorders",
+						"vii. Unique body plan helps identify dinosaurs from other animals",
+						"viii. Herbivore dinosaurs",
+						"ix. Lepidosaurs",
+						"x. Frills and shelves",
+						"xi. The origins of dinosaurs and lizards",
+						"xii. Bird-hipped dinosaurs",
+						"xiii. Skull bones distinguish dinosaurs from other archosaurs"
+					],
+					"answer": "v"
+				},
+				{
+					"id": 33,
+					"type": "matching-heading",
+					"question": "33 Paragraph G",
+					"options": [
+						"i. 165 million years",
+						"ii. The body plan of archosaurs",
+						"iii. Dinosaurs – terrible lizards",
+						"iv. Classification according to pelvic anatomy",
+						"v. The suborders of Saurischia",
+						"vi. Lizards and dinosaurs – two distinct superorders",
+						"vii. Unique body plan helps identify dinosaurs from other animals",
+						"viii. Herbivore dinosaurs",
+						"ix. Lepidosaurs",
+						"x. Frills and shelves",
+						"xi. The origins of dinosaurs and lizards",
+						"xii. Bird-hipped dinosaurs",
+						"xiii. Skull bones distinguish dinosaurs from other archosaurs"
+					],
+					"answer": "viii"
+				},
+				{
+					"id": 34,
+					"type": "fill-blank",
+					"question": "Questions 34-36 Complete the sentences below with NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 34-36 on your answer sheet.\n\n34 Lizards and dinosaurs are classified into two different superorders because of the difference in their __________.",
+					"answer": "skeletal anatomy"
+				},
+				{
+					"id": 35,
+					"type": "fill-blank",
+					"question": "35 In the Triassic Period, __________ evolved into thecodonts, for example, lizards and snakes.",
+					"answer": "os coxae"
+				},
+				{
+					"id": 36,
+					"type": "fill-blank",
+					"question": "36 Dinosaur skulls differed from those of any other known animals because of the presence of vomers __________.",
+					"answer": "two long bones"
+				},
+				{
+					"id": 37,
+					"type": "multiple",
+					"question": "Questions 37-40 Choose one phrase A-H from the list of features on the next page to match with the dinosaurs listed below. Write the appropriate letter A-H in boxes 37-40 on your answer sheet. NB You may use each letter once only. \n\n37 Dinosaurs differed from lizards because ...",
+					"options": ["A", "B", "C", "D", "E", "F", "G", "H"],
+					"answer": "B"
+				},
+				{
+					"id": 38,
+					"type": "multiple",
+					"question": "38 Saurischian and ornithischian dinosaurs ...",
+					"options": ["A", "B", "C", "D", "E", "F", "G", "H"],
+					"answer": "G"
+				},
+				{
+					"id": 39,
+					"type": "multiple",
+					"question": "39 Unlike theraps, sauropodomorphs ...",
+					"options": ["A", "B", "C", "D", "E", "F", "G", "H"],
+					"answer": "H"
+				},
+				{
+					"id": 40,
+					"type": "multiple",
+					"question": "40 Some dinosaurs used their tails to balance, others ...",
+					"options": ["A", "B", "C", "D", "E", "F", "G", "H"],
+					"answer": "F"
+				}
+			]
+		}
+	]
+}
