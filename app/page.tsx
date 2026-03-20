@@ -56,13 +56,11 @@ export default function Home() {
 		<div className='min-h-screen bg-gradient-to-br from-slate-50 to-slate-100'>
 			{/* Header */}
 			<div className='sticky top-0 z-50 backdrop-blur-md bg-white/70 fixed border-b border-white/20 shadow-sm'>
-				<div className='max-w-6xl mx-auto px-4 py-4'>
-					<h1 className='text-3xl font-bold text-slate-800 mb-2'>
+				<div className='flex items-center  max-w-6xl mx-auto px-4 py-4'>
+					<img src='/piramid.png' alt='' className='w-12 h-12' />
+					<h1 className='text-3xl font-bold text-slate-800 ml-2 mb-2'>
 						IELTS Practice Hub
 					</h1>
-					<p className='text-xl text-slate-500'>
-						Master the IELTS exam with comprehensive practice materials
-					</p>
 				</div>
 			</div>
 
